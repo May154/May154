@@ -1,25 +1,4 @@
-[18:20, 22/03/2025] Maycon: <div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%" />
-</div>  
-
-<h1 align="center">🚀 Olá, eu sou Maycon Gabriel! Bem-vindo ao meu GitHub! </h1>  
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0096FF&center=true&vCenter=true&width=900&lines=👨‍💻+Desenvolvedor+Autodidata;+🔥+Apaixonado+por+Tecnologia;+🎮+Explorando+Game+Development;+🌱+Aprimorando+Spring+Boot;+🚀+Sempre+Aprendendo+e+Evoluindo!;">
-</div>  
-
----
-
-## 🛠️ Sobre mim  
-🎮 Explorando *Unity* e *Blender* para desenvolvimento de jogos.  
-🌱 Aprendendo *Spring Boot* para backend.  
-💡 Apaixonado por desenvolvimento de software e experiências interativas.  
-
----
-
-## 🚀 M…
-[18:28, 22/03/2025] Maycon: https://raw.githubusercontent.com/May154/your-repo/main/path-to-your-gif.gif
-[18:28, 22/03/2025] Maycon: <div align="center">
   <img src="https://raw.githubusercontent.com/May154/your-repo/main/path-to-your-gif.gif" width="100%" />
 </div>  
 
