@@ -10,14 +10,16 @@
 
 ---
 
-## 🛠️ About Me  
-🎮 Exploring *Unity* and *Blender* for game development.  
-🌱 Learning *Spring Boot* for backend development.  
-💡 Passionate about software development and interactive experiences.  
+## 🌟 Who Am I?  
+🔹 *Game Developer* | 🔹 *Backend Developer* | 🔹 *Tech Enthusiast*  
+
+🎮 Diving deep into *Unity* and *Blender* for game development.  
+🌱 Learning *Spring Boot* to master backend development.  
+💡 Passionate about coding, problem-solving, and creating interactive experiences.  
 
 ---
 
-## 🚀 My Skills  
+## 🚀 My Tech Stack  
 
 ### 🔹 Backend Development  
 <div align="center">  
@@ -35,11 +37,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=May154&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="150px" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=May154&theme=tokyonight&hide_border=true" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=May154&theme=tokyonight" width="100%" />
 </div>  
 
 ---
 
-## 📬 Connect with Me  
+## 📬 Let's Connect!  
 
 <div align="center">
   <a href="https://linkedin.com/in/maycon-gabriel" target="_blank">
@@ -52,5 +55,5 @@
 
 ---
 
-### ⚡ "Technology moves the world – and I'm here to be part of that change!"  
-✨ Always learning and improving! 🚀
+### ⚡ "Code. Create. Innovate. The world moves forward, and I'm here to be part of it!"  
+✨ Always learning and evolving! 🚀
