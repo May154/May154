@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/May154/your-repo/main/path-to-your-gif.gif" width="100%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F768708230138745560%2F&psig=AOvVaw1OQ1SvhDXn_o2dlEmauKeD&ust=1742766131863000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi61ejTnowDFQAAAAAdAAAAABAE" width="100%" />
 </div>  
 
 <h1 align="center">🚀 Hey there! I'm Maycon Gabriel. Welcome to my GitHub! </h1>  
