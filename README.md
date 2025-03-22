@@ -1,76 +1,83 @@
 <div align="center">
-<img src="https://lh3.ggpht.com/jeovanalahass/SLYRbY4PkGI/AAAAAAAACcU/lEgCEFrG8AQ/s800/nas345.png" align="center" style="width: 100%" />
-</div>  
+
+<!-- Banner de Boas-Vindas -->
+[![Header](https://raw.githubusercontent.com/MayconGabriel/MayconGabriel/main/banner.gif)](https://github.com/MayconGabriel)
   
-
-### <div align="center">I'm Maycon, a beginner back-end web developer 👨‍💻 learning since 2021 🚀</div>  
+### "Olá, eu sou Maycon Gabriel! 🚀 Bem-vindo ao meu GitHub!"
   
+---
 
-- 🌱 I’m currently learning Spring boot  
-  
+<!-- Sobre Mim -->
+## 👨💻 Sobre Mim
 
-<br/>  
+🎓 Estudante autodidata de programação  
+💻 Apaixonado por Java, C# e desenvolvimento de jogos  
+🎮 Explorando Unity e Blender  
+🗣️ Comunicativo e colaborativo em equipe  
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- Tecnologias -->
+## 🛠️ Tecnologias e Ferramentas
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+---
 
-</td><td valign="top" width="33%">
+<!-- Interatividade -->
+## 🕹️ Mundo do Código
 
+![Snake Game](https://github.com/MayconGabriel/MayconGabriel/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Skyline](https://img.shields.io/badge/GitHub%20Skyline-2023-blue?style=for-the-badge)](https://skyline.github.com/MayconGabriel)
 
+---
 
-### Backend  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<!-- Estatísticas -->
+## 📊 Estatísticas do GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=MayconGabriel&show_icons=true&theme=nightowl)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconGabriel&layout=compact&theme=nightowl)
+
+---
+
+<!-- Projetos -->
+## 🚀 Projetos em Destaque
+
+[![Projeto Unity](https://img.shields.io/badge/🎮_Jogo_2D_Unity-00ADD8?style=for-the-badge)](https://github.com/MayconGabriel/jogo-2d-unity)
+[![Modelo 3D](https://img.shields.io/badge/🖌️_Modelo_Blender-FF7800?style=for-the-badge)](https://github.com/MayconGabriel/modelo-3d-blender)
+
+---
+
+<!-- Contato -->
+## 📬 Vamos Conversar!
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayconGabriel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-maycon/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/May154" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<!-- Estilo CSS Customizado -->
+<style>
+  :root {
+    --azul-profundo: #0a192f;
+    --azul-claro: #64ffda;
+  }
   
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=May154&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
+  body {
+    background-color: var(--azul-profundo);
+    color: #ccd6f6;
+  }
   
-
-<br/>  
-
+  .markdown-body {
+    background-color: transparent !important;
+  }
   
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=May154&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
+  img:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+  }
+</style>
